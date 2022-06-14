@@ -1,0 +1,108 @@
+.menu {
+    font-family: 'Heebo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.info-text h1 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 35px;
+    font-weight: bold
+}
+
+.muctieu h2 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+}
+
+.Recent-post h1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.info-text p {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 13px;
+    font-style: regular;
+}
+
+.info-text button {
+    font-family: 'Heebo', sans-serif;
+    font-weight: medium;
+}
+
+.Recent-posts h1 {
+    font-family: 'Heebo', sans-serif;
+    font-size: 18px;
+}
+
+.Recent-posts-all {
+    display: grid;
+    grid-template-columns: 330px 330px;
+    grid-gap: 25px;
+}
+
+.Recent-posts-let h1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Recent-posts-right h1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Recent-posts-let {
+    padding: 20px 10px 20px 15px;
+}
+
+.Recent-posts-right {
+    padding: 20px 20px 20px 15px;
+}
+
+.Featured-all {
+    display: grid;
+    grid-template-columns: 200px auto;
+    grid-gap: 11px;
+}
+
+.Featured-right h1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.Featured-works>h1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 18px;
+}
+
+.Featured-works p {
+    width: 460px;
+    margin-top: 15px;
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 13px;
+}
+
+.year {
+    background-color: black;
+    color: white;
+    border-radius: 16px;
+    padding: 0px 10px
+}
+
+.mxh-1 i {
+    padding: 20px;
+}
+
+.mxh {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 11px;
+}

@@ -1,0 +1,47 @@
+.mxh-1 i {
+    padding: 20px;
+}
+
+.mxh {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 11px;
+}
+
+.block h1 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.block h2 {
+    font-family: 'Heebo', sans-serif;
+    font-weight: medium;
+    font-size: 25px;
+}
+
+.span-year {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 15px;
+    /* padding-right: 10px; */
+}
+
+.block p {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 13px;
+}
+
+.span-q {
+    font-family: 'Heebo', sans-serif;
+    font-weight: regular;
+    font-size: 13px;
+    color: #8695A4;
+}
+
+.menu {
+    font-family: 'Heebo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
